@@ -50,7 +50,7 @@ I help businesses find the answers they didn’t even know they were looking for
 ## 💼 Professional Experience
 
 **Data Analyst**  
-*Myzas Technologies Pvt. Ltd.* | 📍 Mumbai | 🗓️ Nov 2021 – Present  
+*Myzas Technologies Pvt. Ltd.* | 📍 Mumbai  
 
 - Created SQL-based workflows → 30% boost in targeted marketing  
 - Designed Power BI dashboards → cut report time by 40%  
@@ -121,7 +121,7 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal
 ## ❓ Frequently Asked Questions
 
 ### 🔹 Q: Open to freelance or remote work?
-**Yes**, I’m actively open to freelance, contract, and remote analytical projects.
+**Yes**, I’m actively open to full-time, contract, remote and freelance analytical projects.
 
 ### 🔹 Q: Which domains do you work in?
 Finance, complaints, risk, customer analytics, KPI tracking & dashboards.
